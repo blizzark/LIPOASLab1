@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\project\lablipoas1\lablipoas1\source.cpp(208): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+c:\project\lablipoas1\lablipoas1\source.cpp(265): warning C4018: <: несоответствие типов со знаком и без знака
+c:\project\lablipoas1\lablipoas1\source.cpp(336): warning C4018: <: несоответствие типов со знаком и без знака
+  LabLIPOAS1.vcxproj -> C:\Project\LabLIPOAS1\Debug\LabLIPOAS1.exe
